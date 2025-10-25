@@ -13,7 +13,7 @@ Visually Consistent and Responsive Design:The certificate template and input for
 ​Client-Side Interactivity: Basic JavaScript is used for form validation and to offer limited template customization options, such as color selection.
 
 # ​Future Plans (Backend Integration)🔧
-I want to make this web application as a secure and robust one. To ensure this, I wish to follow the below plans in future:-
+I want to make this web application as a secure & robust one. To ensure this, I wish to follow the below plans in future:-
 
 ​Secure Unique ID Generation: A backend API will be implemented to generate a unique, cryptographically secure ID and digital signature for each certificate, which is essential for preventing tampering.
 ​Database Integration: The application will connect to a database (SQL) to securely store and manage all issued certificate records for verification.
